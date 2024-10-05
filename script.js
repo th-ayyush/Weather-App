@@ -1,4 +1,4 @@
-const apiKey = "ENTER YOUR API KEY";
+const apiKey = "ENTER YOUR API KEY";// Add your own api key
 
 const main = document.getElementById('main');
 const form = document.getElementById('form');
